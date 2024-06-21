@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**bloodymary05/bloodymary05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Bhushan Chavan</h1>
+<h3 align="center"> A UX/UI Designer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This Text Below Describes Me
+- 👀 I’m interested in Solving Problems
+- 🌱 I’m currently learning Frontend Coding (React, NextJS)
+- 💞️ I’m looking to collaborate on UI/UX Design
+- 📫 You Can Reach Me at bhushanchavan0503@gmail.com, 
+- 😄 Pronouns: He/Him
+- ⚡ Want to Play a Game of ♟️Chess??
+
+<!---
+bloodymary06/bloodymary06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
